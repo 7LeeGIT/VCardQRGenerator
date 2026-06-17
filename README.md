@@ -12,7 +12,7 @@ Ce projet permet de générer automatiquement des QR codes contenant des informa
 - Support complet des informations de contact :
   - Nom complet
   - Fonction/Titre professionnel
-  - Numéro de téléphone mobile
+  - Numéro de téléphone mobilekk
   - Numéro de téléphone fixe
   - Adresse email
   - Adresse postale complète
